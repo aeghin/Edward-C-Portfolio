@@ -432,6 +432,18 @@ section {
   width: auto;
 }
 
+.mysql {
+  height: 62px;
+  /* margin-bottom: px; */
+  width: auto;
+}
+
+.nodejs {
+  height: 50px;
+  margin-bottom: 5px;
+  width: 60px;
+}
+
 /*--------------------------------------------------------------
 
 
